@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chippys.falixsrv.me",
-    "port": 29971,
+    "ip": "157.180.106.62",
+    "port": 27636,
     "version": "1.21.1",
     "try-creative": false
   },
