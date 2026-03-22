@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "162.55.100.208",
-    "port": 28467,
+    "ip": "168.119.78.155",
+    "port": 58146,
     "version": "1.21.1",
     "try-creative": false
   },
