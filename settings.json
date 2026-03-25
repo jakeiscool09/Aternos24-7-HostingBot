@@ -9,13 +9,13 @@
     "ip": "NEW-CHIPPY.aternos.me",
     "port": 33395,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
-    "enabled": true,
-    "x": -716,
-    "y": 191,
-    "z": -414
+    "enabled": false,
+    "x": 0,
+    "y": 100,
+    "z": 0,
   },
   "utils": {
     "auto-auth": {
