@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "168.119.78.155",
-    "port": 58146,
-    "version": "1.21.1",
+    "ip": "NEW-CHIPPY.aternos.me",
+    "port": 33395,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
